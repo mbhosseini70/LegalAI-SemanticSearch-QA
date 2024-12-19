@@ -1,0 +1,61 @@
+No amendment to this Agreement shall be effective unless it is made in writing and signed by all Parties.
+The Parties expressly exclude the application of article 5.74 of the (new) Belgian Civil Code and confirm the...principle that this Agreement cannot be amended in case of change of circumstances.
+Except as otherwise provided herein, no failure or delay of a Party to exercise any right or remedy under this Agreement shall be considered as a waiver of such right or remedy, or any other right or remedy under this Agreement, nor shall any partial exercise of any right or remedy under this Agreement preclude any further exercise thereof or the exercise of any other right or remedy under this Agreement.
+Except as otherwise provided herein, no waiver shall be effective unless it is given in writing and signed by the...Party that gives the waiver.
+- 1. Assignment of rights and obligation
+Except as otherwise provided herein, no Party may assign or transfer all or part of its rights and/or obligations under this Agreement to any third party (through a sale, a contribution, a donation or any other transaction, including the sale or contribution of a division or of a business as a whole, a merger or a split) without the prior written consent of the other Party (which consent shall not be unreasonably withheld, conditioned or delayed). As long as such consent has not been obtained, the assigning Party shall continue to be liable for all obligations that it intended to assign or transfer (without prejudice to any other right or remedy that the other Party may have for breach of this Clause 10.2.1).
+Subject to the assignment restrictions set out in this Clause 10.2, the provisions of this Agreement shall inure to the benefit of and shall be binding upon the Parties and their respective heirs, successors and assigns.
+- 1. Notice
+Any notice in connection with this Agreement must be in writing in English and shall be validly given with respect to each Party if delivered:
+or to such other addressee, e-mail address or postal address as a Party may notify to the other Party in accordance with this Clause 10.3.1.
+If to the Manager:
+Address: Kroonlaan 50, 1050 Brussels, Belgium
+Attn.: Henry Bas
+E-mail: info@hb.be
+If to the Company:
+Address: Louizalaan 12, 1000 Brussels, Belgium
+Attn.: Louis Louis
+E-mail: louislouis@gmail.com
+Any notice shall be effective upon receipt and shall be deemed to have been received:
+- - - 1. if sent by e-mail, at the time the e-mail is sent an 2. if delivered by hand or registered mail, at the time of delivery 1. Expense
+Except as otherwise provided herein, each Party shall bear all costs and expenses incurred or to be incurred by it in connection with the negotiation, execution and performance of this Agreement.
+- 1. Severabilit
+If any provision in this Agreement is held to be illegal, invalid or unenforceable, in whole or in part, under any applicable law, then such provision or part of it shall be deemed not to form part of this Agreement, and the...legality, validity or enforceability of the remainder of this Agreement shall not be affected.
+In such case, each Party shall use its best efforts to immediately negotiate in good faith a valid replacement provision that is as close as possible to the original intention of the Parties and has the same or as similar as possible economic effect.
+- 1. Electronic signatur
+The Parties agree that this Agreement shall be executed electronically in accordance with the provisions of book...8 of the (new) Belgian Civil Code, through the service provider Connective or DocuSign.
+- 1. Acknowledgemen
+The Parties acknowledge that the terms and conditions of this Agreement are the result of negotiations by and between the Parties, assisted by their respective professional advisors, aimed at striking a reasonable balance between their respective interests.
+- 1. Entire Agreemen
+This Agreement (together with the documents referred to herein) contains the entire agreement between the Parties with respect to its subject matter.
+This Agreement replaces and annuls all prior agreements, communications, offers, proposals or correspondence, oral or written, exchanged or concluded between the Parties relating to the same subject matter.
+- 1. Governing la
+This Agreement shall be governed by and construed in accordance with the laws of Belgium.
+- 1. Applicable jurisdictio
+The courts of Ghent shall have exclusive jurisdiction to settle any dispute arising out of or in connection with this Agreement (including a dispute relating to non-contractual obligations arising out of or in connection with this Agreement) which the Parties are unable to settle amicably.
+[next page is the signature page]
+Signed electronically on 17 June 2024. Each Party hereby confirms having received one original copy.
+```csv "For theCompany" "" "" "" "Name:" "Louis Louis BV, permanently represented by Louis Louis" "Capacity:" "Director" ```
+```csv "For theManager" "" "" "" "Name:" "Henry Bas" "Capacity:" "Director" ```
+```csv "Henry Bas" "" "" "" ```
+Schedule 1: Definitions and interpretation
+Definitions
+For the purposes of this Agreement, the following terms shall have the following meanings:
+- Agreementmeans this management agreement - Business Daymeans a day which is not a Saturday, a Sunday or official public holiday in Belgium on which banks are open for general non-automated business in Belgium - Clausemeans a clause of this Agreement - Confidential Informationhas the meaning given to it in Clause 7.1 - Date of the Agreementmeans the date of execution of this Agreement, i.e. 17 June 2024 - GDPRhas the meaning given to it in Clause 9.1 - Group (Companies) has the meaning given to it in Clause 8.2 - IntellectualProperty Rightshas the meaning given to it in Clause 6.1 - ManagementFeehas the meaning given to it in Clause 4.1 - Non-CompetePeriodhas the meaning given to it in Clause 8.1 - Recitalmeans a recital to this Agreement - Schedulemeans a schedule to this Agreement - Serviceshas the meaning given to it in Clause 2.1
+Interpretation
+- Any reference to a subsidiary shall have the meaning given to it in article 1:15 of the Belgian Code of Companies and Associations, and to an affiliate (or any derivations thereof) shall have the meaning given to it in article...1:20 of the Belgian Code of Companies and Associations - The Schedules and Recitals form an integral part of this Agreement for all purposes. Any reference to this Agreement shall include a reference to its Recitals and Schedules and vice versa - When using the words 'shall cause' or 'shall procure that' (or any similar expression or any derivation thereof), the Parties intend to refer to the Belgian legal concept of 'sterkmaking / porte-fort' - When using the expressions 'shall use its best efforts' or 'shall use its best endeavours' (or any similar expression or any derivation thereof) in this Agreement, the Parties intend to refer to the Belgian legal concept of 'middelenverbintenis / obligation de moyen'
+Schedule 2.1: Description of the Services
+- HR-managemen - Strategic advic - Support to the CEO in daily managemen - Reporting to the Bo
+
+1. Term and terminatio
+This Agreement is entered into on the Date of the Agreement for an indefinite term.
+The Company and the Manager may at any time terminate the Agreement with a six (6) months' prior written notice.
+Without prejudice to Clause 5.2, the Company can terminate this Agreement with immediate effect by notifying the Manager thereof via registered letter, in the event any of the following has occurred:
+- - - 1. fraud (bedrog/dol), willful misconduct (eigen opzet/fait intentionel) or gross negligence (grove nalatigheid/faute lourde) by the Manager or the Permanent Representative in relation to the...performance of the Service 2. a material or persistent breach by the Manager or the Permanent Representative of any of the...obligations under this Agreement, if such breach is not capable of being remedied or has not been remedied within fifteen (15) Business Days following a notice by the Company to the Manager theret 3. bankruptcy, insolvency, liquidation of, or loss of a substantial part of the assets by the Manage 4. the Manager or the Permanent Representative being convicted of, or admitting guilt to, any criminal activity (excluding, however, any minor criminal offences committed outside the context of this Agreement that cannot lead to any reputational damage to the Company, such as, for instance, traffic violations)
+The Manager shall not be entitled to any damages or compensation in the event of a termination of this Agreement pursuant to Clause 5.3.
+The termination of this Agreement pursuant to this Clause 5 is without prejudice to any claim the Company has or might have against the Manager or the Permanent Representative for damages suffered or incurred.
+Notwithstanding the termination of this Agreement for whatever reason, the provisions of Clauses 6.5, 7 and 8 shall survive such termination of this Agreement and shall continue in full force and effect.
+Without prejudice to Clause 5.2, the Manager can terminate this Agreement with immediate effect by notifying the Company thereof via registered letter, in the event any of the following has occurred:
+- - - 1. fraud (bedrog/dol), willful misconduct (eigen opzet/fait intentionel) or gross negligence (grove nalatigheid/faute lourde) by the Company in relation to the performance of any of its obligations under this Agreemen 2. a material or persistent breach by the Company of any of the obligations under this Agreement, if such breach is not capable of being remedied or has not been remedied within fifteen (15) Business Days following a notice by the Manager to the Company thereto o 3. bankruptcy, insolvency, liquidation of, or loss of a substantial part of the assets by the Company 4. the Company (or its directors) being convicted of, or admitting guilt to, any criminal activity (excluding, however, any minor criminal offences committed outside the context of this Agreement that cannot lead to any reputational damage to the Company, such as, for instance, traffic violations)
+The Company shall not be entitled to any damages or compensation in the event of a termination of this...Agreement pursuant to Clause 5.7.
+The termination of this Agreement pursuant to this Clause 5 is without prejudice to any claim the Manager has or might have against the Company for damages suffered or incurred.
